@@ -4,7 +4,7 @@
       src="https://neo3.azureedge.net/images/logo%20files-dark.svg"
       width="250px" alt="neo-logo">
   </a>
-</p>
+</p>   
 
 <h3 align="center">CSharp implementation of the neo blockchain protocol.</h3>
 
